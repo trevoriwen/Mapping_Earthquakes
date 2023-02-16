@@ -8,8 +8,14 @@ Tasked with helping Basil and Sadhana create map overlays for tectonic plate loc
 ### Add Tectonic Plate Data (Deliverable 1)
 Map tectonic plate lines on the Earthquakes map using the tectonic plate data found in the GeoJSON/PB2002_boundaries.json file.
 
+![Tectonic Plates](img/tectonic_plates.png)
+
 ### Add Major Earthquake Data (Deliverable 2)
 Create a overlay option on the map that shows only the earthquake's with a magnitude of 4.5 or more as Major Earthquakes. This is done by reading the data from the GeoJSON summary feed for M4.5+ Earthquakes.
 
+![Major Earthquakes](img/major_earthquakes.png)
+
 ### Add an Additional Map Option (Deliverable 3)
 The last deliverable was to add the dark map to the available map options.
+
+![Dark Map](img/dark_map.png)
